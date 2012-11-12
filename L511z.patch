@@ -1,0 +1,5 @@
+{
+	Name        = "Fix sleep/wake cycle for OS X"
+	File        = "PlatformSmm.efi"
+	FileReplace = "PlatformSmm.A04.efi"
+}
